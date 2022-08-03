@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PUM\bin\Debug\net6.0\PUM.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PUM\bin\Debug\net6.0\PUM.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PUM\bin\Debug\net6.0\PUM.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PUM\bin\Debug\net6.0\PUM.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PUM\bin\Debug\net6.0\PUM.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PUM\obj\Debug\net6.0\PUM.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PUM\obj\Debug\net6.0\PUM.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PUM\obj\Debug\net6.0\PUM.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PUM\obj\Debug\net6.0\PUM.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PUM\obj\Debug\net6.0\PUM.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PUM\obj\Debug\net6.0\PUM.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PUM\obj\Debug\net6.0\refint\PUM.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PUM\obj\Debug\net6.0\PUM.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PUM\obj\Debug\net6.0\PUM.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PUM\obj\Debug\net6.0\ref\PUM.dll
